@@ -5,7 +5,7 @@ Especially, I am interested to see how highways affect mobility patterns, total 
 
 This is a multi-graph, with two kinds of edges:
 - Euclidean distance
-- Time, calculated as a function: time = distance/speed
+- Time apart (time-distance), calculated as a function: time = distance/speed
 
 That is, first we see a city as a 2-dimensional lattice (grid), then we add some small-world connections (think of highways).
 
